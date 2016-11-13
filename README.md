@@ -1,6 +1,6 @@
 ##Informatie
 
-Project              | Local Exchange and Trading System
+Project              | Lessen
 --------------------:| :-------------
 Naam                 | Rik Denteneer
 Opleidingsonderdeel  | Crossmedia Publishing III
